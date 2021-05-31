@@ -154,5 +154,5 @@ empDailyHrsMap.forEach((value, key, map) => {
 });
 
  console.log("full working days: " + fullWorkingDays);
-console.log("part working days: " + partWorkingDays);
+console.log("part working days: " + partWorkingDays); 
 console.log("non working days: " + nonWorkingDays);
