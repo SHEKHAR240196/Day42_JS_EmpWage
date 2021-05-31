@@ -103,7 +103,7 @@ class EmployeePayrollData {
         this._email = email;
       } else {
         throw "Invalid email!";
-      }
+      } 
     }
   
     //toString
