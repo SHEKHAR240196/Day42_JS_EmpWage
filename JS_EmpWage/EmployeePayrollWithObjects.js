@@ -151,4 +151,4 @@
      if (dailyHrsAndWage > 0) numOfDaysEmpWorked += 1;
    }); //need to check
  
- console.log("numkber of working days123: " + numOfDaysEmpWorked);
+ console.log("numkber of working days123: " + numOfDaysEmpWorked); 
