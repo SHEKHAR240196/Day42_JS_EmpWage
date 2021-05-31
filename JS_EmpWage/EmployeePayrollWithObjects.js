@@ -152,3 +152,4 @@
    }); //need to check
  
  console.log("numkber of working days123: " + numOfDaysEmpWorked); 
+
